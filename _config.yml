@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Swift Learn
+tagline:          Everything about Apple's new programming language.
+description:      Everything about Apple's new programming language.
+url:              http://swift-learn.com
+
+authors:
+ - name  :     'Akshay Aurora'
+   url   :     https://twitter.com/akshayaurora
+ - name  :     'Rohan Aurora'
+   url   :     https://twitter.com/iamTRA
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+social:
+  github:           https://github.com/swift-learn
+  twitter:          https://twitter.com/swift_learn
+
+
